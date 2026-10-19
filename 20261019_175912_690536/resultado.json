@@ -1,0 +1,197 @@
+{
+  "camera_index": 0,
+  "configured_lens_position": 4.5,
+  "measured_lens_position": 0.234375,
+  "confirmed_lens_position": 0.234375,
+  "autofocus_success": null,
+  "requires_visual_confirmation": true,
+  "configuration_changed": false,
+  "before_image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/antes.png",
+  "focused_image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/enfocada.png",
+  "mode": "manual_sweep",
+  "lens_position_range": [
+    0.0,
+    15.0
+  ],
+  "roi": [
+    0.25,
+    0.05,
+    0.5,
+    0.9
+  ],
+  "baseline_score": 0.00013242105415613948,
+  "confirmation_score": 0.0001636706407959997,
+  "sweep_samples": [
+    {
+      "requested_position": 0.0,
+      "confirmed_position": 0.0,
+      "score": 0.0001607146249321807,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_01_0.000000.png"
+    },
+    {
+      "requested_position": 0.9375,
+      "confirmed_position": 0.9375,
+      "score": 0.00015697820690699284,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_02_0.937500.png"
+    },
+    {
+      "requested_position": 1.875,
+      "confirmed_position": 1.875,
+      "score": 0.00015124800781454316,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_03_1.875000.png"
+    },
+    {
+      "requested_position": 2.8125,
+      "confirmed_position": 2.8125,
+      "score": 0.0001456167746901468,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_04_2.812500.png"
+    },
+    {
+      "requested_position": 3.75,
+      "confirmed_position": 3.75,
+      "score": 0.0001419318139731674,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_05_3.750000.png"
+    },
+    {
+      "requested_position": 4.5,
+      "confirmed_position": 4.5,
+      "score": 0.00013774590921412057,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_06_4.500000.png"
+    },
+    {
+      "requested_position": 4.6875,
+      "confirmed_position": 4.6875,
+      "score": 0.00013552088567568218,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_07_4.687500.png"
+    },
+    {
+      "requested_position": 5.625,
+      "confirmed_position": 5.625,
+      "score": 0.00013582817121793615,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_08_5.625000.png"
+    },
+    {
+      "requested_position": 6.5625,
+      "confirmed_position": 6.5625,
+      "score": 0.0001332312231484951,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_09_6.562500.png"
+    },
+    {
+      "requested_position": 7.5,
+      "confirmed_position": 7.5,
+      "score": 0.0001296558974231511,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_10_7.500000.png"
+    },
+    {
+      "requested_position": 8.4375,
+      "confirmed_position": 8.4375,
+      "score": 0.0001287326156113375,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_11_8.437500.png"
+    },
+    {
+      "requested_position": 9.375,
+      "confirmed_position": 9.375,
+      "score": 0.00012697298285862081,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_12_9.375000.png"
+    },
+    {
+      "requested_position": 10.3125,
+      "confirmed_position": 10.3125,
+      "score": 0.0001254169593966038,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_13_10.312500.png"
+    },
+    {
+      "requested_position": 11.25,
+      "confirmed_position": 11.25,
+      "score": 0.00012376374786565294,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_14_11.250000.png"
+    },
+    {
+      "requested_position": 12.1875,
+      "confirmed_position": 12.1875,
+      "score": 0.00012240796870657903,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_15_12.187500.png"
+    },
+    {
+      "requested_position": 13.125,
+      "confirmed_position": 13.125,
+      "score": 0.00012234635756124893,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_16_13.125000.png"
+    },
+    {
+      "requested_position": 14.0625,
+      "confirmed_position": 14.0625,
+      "score": 0.00012173371682989599,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_17_14.062500.png"
+    },
+    {
+      "requested_position": 15.0,
+      "confirmed_position": 15.0,
+      "score": 0.00011993417858704387,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_18_15.000000.png"
+    },
+    {
+      "requested_position": 0.1171875,
+      "confirmed_position": 0.1171875,
+      "score": 0.00015508193019854902,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_19_0.117188.png"
+    },
+    {
+      "requested_position": 0.234375,
+      "confirmed_position": 0.234375,
+      "score": 0.0001649296952684892,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_20_0.234375.png"
+    },
+    {
+      "requested_position": 0.3515625,
+      "confirmed_position": 0.3515625,
+      "score": 0.00016274974189775678,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_21_0.351562.png"
+    },
+    {
+      "requested_position": 0.46875,
+      "confirmed_position": 0.46875,
+      "score": 0.00016188539450239008,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_22_0.468750.png"
+    },
+    {
+      "requested_position": 0.5859375,
+      "confirmed_position": 0.5859375,
+      "score": 0.00015996233902571263,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_23_0.585938.png"
+    },
+    {
+      "requested_position": 0.703125,
+      "confirmed_position": 0.703125,
+      "score": 0.000159691693183439,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_24_0.703125.png"
+    },
+    {
+      "requested_position": 0.8203125,
+      "confirmed_position": 0.8203125,
+      "score": 0.00015826840525776244,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_25_0.820312.png"
+    }
+  ],
+  "top_positions": [
+    {
+      "requested_position": 0.234375,
+      "confirmed_position": 0.234375,
+      "score": 0.0001649296952684892,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_20_0.234375.png"
+    },
+    {
+      "requested_position": 0.3515625,
+      "confirmed_position": 0.3515625,
+      "score": 0.00016274974189775678,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_21_0.351562.png"
+    },
+    {
+      "requested_position": 0.46875,
+      "confirmed_position": 0.46875,
+      "score": 0.00016188539450239008,
+      "image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/barrido_22_0.468750.png"
+    }
+  ],
+  "comparison_image": "/home/pi/tb_edge_focus_results/20261019_175912_690536/comparativa.png"
+}

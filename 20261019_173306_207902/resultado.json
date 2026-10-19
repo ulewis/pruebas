@@ -1,0 +1,11 @@
+{
+  "camera_index": 0,
+  "configured_lens_position": 4.5,
+  "measured_lens_position": 0.0,
+  "confirmed_lens_position": 0.0,
+  "autofocus_success": true,
+  "requires_visual_confirmation": true,
+  "configuration_changed": false,
+  "before_image": "/home/pi/tb_edge_focus_results/20261019_173306_207902/antes.png",
+  "focused_image": "/home/pi/tb_edge_focus_results/20261019_173306_207902/enfocada.png"
+}
